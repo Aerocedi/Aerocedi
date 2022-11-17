@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aerocedi
-- 👀 I’m interested in Aerospace (Controls for Unmanned Aerial Vehicle, Evtols, Propulsion and Cyber-physical systems)
+- 👀 I’m interested in Aerospace (Flight Controls and Propulsion for Unmanned Aerial Vehicle, Evtols, and Cyber-physical systems)
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on autonomous aerial vehicle design, IOT solutions and Deep learning projects
 - 📫 You can reach me on pabosede@wpi.edu or abosedepeter13@gmail.com
